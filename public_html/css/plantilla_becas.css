@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:"#FAFAF3";
+	color:#000;
+	margin:0;
+}
+
+a:link{
+	color:#ff0040;
+}
+a:visited{
+	color:#ff0040;
+}
+a:active{
+	color:#a1a1a1;
+}
+a:hover{
+	color:#ff0040;
+}
+
+.titulo_panel a:link{
+	color:#ff0040;
+}
+.titulo_panel a:visited{
+	color:#ff0040;
+}
+.titulo_panel a:active{
+	color:#a1a1a1;
+}
+.titulo_panel a:hover{
+	color:blue;
+}
+
+.titulo_panel_cierre a:link{
+	color:#ff0040;
+}
+.titulo_panel_cierre a:visited{
+	color:#ff0040;
+}
+.titulo_panel_cierre a:active{
+	color:#a1a1a1;
+}
+.titulo_panel_cierre a:hover{
+	color:blue;
+}
+
+.titulo_form {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 15px; color: #ff0040; font-weight: bold; border-top: #ff0040 1px solid; border-bottom: #ff0040 1px solid; padding-top:4px; padding-bottom:4px;}
+
+.titulo_panel {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #ff0040; font-weight: bold; /*border-top: #ff0040 1px solid;*/ border-bottom: #ff0040 1px solid; padding-top:4px; padding-bottom:4px;}
+
+.titulo_panel_cierre {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #ff0040; font-weight: bold; /*border-top: #ff0040 1px solid;*/ border-bottom: #ff0040 1px solid; padding-top:4px; padding-bottom:4px;}
+
+#solicitud_beca_table{
+	text-align:left;
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000;
+}
